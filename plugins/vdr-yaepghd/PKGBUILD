@@ -1,7 +1,7 @@
 # Maintainer: Christopher Reimer <vdr4arch[at]creimer[dot]net>
 pkgname=vdr-yaepghd
-pkgver=0.0.4
-_gitver=2a08e4e54882a848975d1435e09dece58b7aa2de
+pkgver=0.0.4_5_g8dbb7b4
+_gitver=8dbb7b4e1422daa4845136ece07052697a1c59d0
 _vdrapi=2.0.0
 pkgrel=1
 pkgdesc="Complete rewrite of the original yaepg plugin"
